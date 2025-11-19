@@ -34,7 +34,7 @@ The workbook uses the netflix_titles dataset as its primary datasource.
 
 Download or clone this repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+https://public.tableau.com/app/profile/vignesh.a2341/viz/tableaueprojecct/Netflix
 
 
 
