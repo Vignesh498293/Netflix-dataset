@@ -1,4 +1,5 @@
 **📊 Netflix Titles Tableau Project**
+
 This repository contains a Tableau workbook (.twbx) that analyzes the Netflix Titles Dataset.
 The dashboard provides insights into Netflix’s catalog, including distributions by country, release year, content type, and more.
 
@@ -27,10 +28,12 @@ Publisher and ratings insights (if included in the dataset)
 
 
 The workbook uses the netflix_titles dataset as its primary datasource.
+
 **🚀 How to Use**
 
 
 Download or clone this repository:
+
 git clone https://github.com/your-username/your-repo-name.git
 
 
@@ -54,4 +57,5 @@ netflix_titles dataset
 
 
 **📚 Dataset Source**
+
 Netflix Titles Dataset – typically found on Kaggle or various open-source repositories.
