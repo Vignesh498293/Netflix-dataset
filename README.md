@@ -1,9 +1,13 @@
 **📊 Netflix Titles Tableau Project**
 This repository contains a Tableau workbook (.twbx) that analyzes the Netflix Titles Dataset.
 The dashboard provides insights into Netflix’s catalog, including distributions by country, release year, content type, and more.
+
 **📁 Project Files**
+
 FileDescriptiontableaue project.twbxPackaged Tableau workbook containing the full dashboard and underlying extract.
+
 **📈 Project Overview**
+
 The Tableau dashboard explores patterns and trends in Netflix’s content library. Some key analytical components include:
 
 
